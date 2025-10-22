@@ -22,10 +22,6 @@
 ---
 
 ### 🌐 Encuéntrame en:
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
-- 🌍 [Portafolio Web](https://tusitio.com/)  
-- ✉️ **Correo:** tuemail@gmail.com  
-
+- 💼 [LinkedIn](www.linkedin.com/in/jmhpk)  
+- ✉️ **Correo:** giddonpk@gmail.com 
 ---
-
-⭐ *“El código limpio no solo funciona, también se entiende.”*  
